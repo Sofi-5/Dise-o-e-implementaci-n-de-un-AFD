@@ -1,0 +1,13 @@
+estados=q0,q1,q2
+alfabeto=a,b
+inicial=q0
+finales=q2
+transiciones=
+q0,a,q1
+q0,b,q0
+q1,a,q1
+q1,b,q2
+q2,a,q2
+q2,b,q2
+
+
